@@ -1,6 +1,5 @@
 # Gradius-Console-Arcade-Game
 A C# terminal-based arcade engine implementing OOP design patterns, double-buffering for flicker-free rendering, and persistent data management.
-# Gradius Elite: High-Performance Arcade Engine
 
 ## 🚀 Project Overview
 Gradius Elite is a terminal-based side-scrolling shooter developed in C#. The project demonstrates the application of Object-Oriented Programming (OOP) principles, efficient memory management, and real-time game loop architecture in a console environment.
